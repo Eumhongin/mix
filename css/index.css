@@ -1,0 +1,22 @@
+html,body{
+  margin:0;
+  padding:0;
+  width: 100%;
+}
+.DAEGU{
+  
+  top: 50%;
+  left: 45%;
+  width: 20%;
+  position: relative;
+  display: block;
+  font-family: 'JMDB';
+  font-size: 6em;
+}
+.DAEGU > span{
+  position: absolute;
+}
+.sentence{
+  width: 100%;
+  position: absolute;
+}
